@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Jichi
+## 📜 A Bit About Me
+Ventured from being a college dropout to pursuing a PhD. It's never too late to achieve your academic goals!
 
 <!--
 **cangkringensis/cangkringensis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
